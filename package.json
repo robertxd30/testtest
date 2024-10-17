@@ -1,0 +1,21 @@
+{
+    "name": "trading-vue-101",
+    "version": "1.0.0",
+    "description": "Example project for trading-vue-js",
+    "main": "src/main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "node data/server.js"
+    },
+    "author": "C451",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.6.2",
+        "child_process": "^1.0.2",
+        "decompress": "^4.2.1",
+        "discord.js": "^14.13.0",
+        "fs": "^0.0.1-security",
+        "node-machine-id": "^1.1.12",
+        "path": "^0.12.7"
+    }
+}
